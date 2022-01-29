@@ -54,7 +54,7 @@
     "credit cards",
     "api"
   ],
-  "homepage": "https://github.com/WalioHq/walio-node",
+  "homepage": "https://github.com/WalioHq/walio-node#readme",
   "author": "Walio <support@walio.io> (https://walio.io/)",
   "main": "walio.js",
   "scripts": {
