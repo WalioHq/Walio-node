@@ -1,6 +1,6 @@
 {
   "name": "walio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Walio API wrapper for NodeJS",
   "keywords": [
     "walio",
