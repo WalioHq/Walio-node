@@ -1,6 +1,6 @@
 {
   "name": "walio",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Walio API wrapper for NodeJS",
   "keywords": [
     "walio",
@@ -54,7 +54,7 @@
     "credit cards",
     "api"
   ],
-  "homepage": "https://github.com/WalioHq/walio-node#readme",
+  "homepage": "https://github.com/WalioHq/walio-node",
   "author": "Walio <support@walio.io> (https://walio.io/)",
   "main": "walio.js",
   "scripts": {
